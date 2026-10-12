@@ -1,0 +1,11 @@
+{
+  "provenance": "Saved supplied notebook outputs; not recomputed",
+  "records": 3214,
+  "test_records": 643,
+  "random_forest_test_accuracy_displayed_percent": 81.65,
+  "majority_baseline_accuracy": 0.6936236391912908,
+  "logistic_regression_test_accuracy": 0.7325038880248833,
+  "decision_tree_test_accuracy": 0.7916018662519441,
+  "original_rf_validation_accuracy": 0.8102643856920684,
+  "tuned_rf_validation_accuracy_displayed": 0.8072
+}
